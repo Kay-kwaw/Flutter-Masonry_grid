@@ -247,7 +247,7 @@ class _Onboarding2WidgetState extends State<Onboarding2Widget>
                   children: [
                     Container(
                       width: double.infinity,
-                      height: 600,
+                      height: 420,
                       decoration: BoxDecoration(
                         color: FlutterFlowTheme.of(context).secondaryBackground,
                       ),
